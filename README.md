@@ -17,10 +17,5 @@ To play, just launch...
 snake.py
 ```
 
-## base.py
-Contains all the vectorial functions for the player movement.
-
-Please make sure to update tests as appropriate.
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
